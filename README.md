@@ -21,4 +21,8 @@
   - I graduated in 2010. :mortar_board:
 
 ### In 2010
- - I start my second graduation
+ - I start my second graduation (A teacher of the first graduation said that this other course would be more complete).
+ - I'm this course i learned MySql, :heart:C#:heart:, :heart:Java:heart:, UML, .... many technologies.
+
+### In 2017
+ - I Start my Postgraduate in Technologies for Web Development in IFSULDEMINAS, and finish in 2018.
